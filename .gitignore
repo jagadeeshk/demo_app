@@ -1,5 +1,15 @@
 .bundle
 db/*.sqlite3
-log/*.log
 tmp/
 .sass-cache/
+*.swp
+.DS_Store
+.idea/
+bin/
+coverage/
+dump.rdb
+log/*
+logs/*.log
+public/assets
+public/stylesheets
+vendor/
